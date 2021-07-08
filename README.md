@@ -1,2 +1,1 @@
-# STK_Index
-Dimensional Model of Stock Index and Economic Data
+This was an individual project for ISM6208 Data Warehousing at USF. The project began with dimensional model design based on an Oracle relational star schema. This was followed by implementation, aggregation, analytic queries, flattening, mining, and visualization . Oracle SQL Developer, Orange, and Tableau were the primary tools.
